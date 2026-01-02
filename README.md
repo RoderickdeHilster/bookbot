@@ -1,2 +1,3 @@
 # bookbot
-boot.dev excercise to make a bookbot in pythin
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
